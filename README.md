@@ -1,6 +1,6 @@
 # License Plate Recognition System
 
-This project focuses on recognizing and extracting text from license plates, built using **YOLOv10** for object detection and Microsoft’s **TrOCR** model for text recognition. The system was collaboratively developed by me and my friend to manage the entire process, from data preprocessing to model training and evaluation.
+This project focuses on recognizing and extracting text from license plates, built using **YOLOv10** for object detection and Microsoft’s **TrOCR** model for text recognition. 
 
 The primary goal of this project is to effectively recognize and extract text from license plates through a well-structured pipeline. Initially, the dataset undergoes preprocessing, which is critical for ensuring the models can learn effectively. This involves normalizing image sizes and converting the dataset format to make it compatible with YOLOv10 for object detection.
 
